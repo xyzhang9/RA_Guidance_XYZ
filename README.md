@@ -9,7 +9,12 @@ Contents:
     1. [Managing meetings](#i-managing-meetings)
     1. [Weekly emails with timesheet and recap](#ii-weekly-emails-with-timesheet-and-recap)
         - [An example of the weekly email](#an-example-of-the-weekly-email)
-        - [Examples for the weekly recaps](#examples-for-the-weekly-recaps)
+        - [Examples for the weekly recaps](#examples-of-the-weekly-recaps)
+    1. [Presenting results to PIs](#iii-presenting-results-to-pis)
+2. [General project organization](#2-general-project-organization)
+    1. [GitHub](#i-github)
+    1. [Dropbox](#ii-dropbox)
+    1. [Overleaf](#iii-overleaf)
 6. [Acknowledgments](#6-acknowledgments)
 
 # 1. Administrative tasks
@@ -157,12 +162,92 @@ In academic projects, it's essential to keep reports, codes, results, data well 
 - Dropbox folder stores data and all the files you create for the project.
 - The GitHub repository stores the structured folder but no **data**. Strutured folders are those corresponding to GitHub issues and is well organized so that it is clear what are the codes to solve the issue, what are the results, and what is the report.
 
-i. Github
+## i. GitHub
+GitHub is used to help facilitate sharing results and scripts with PIs and other research assistants, ensuring reproducibility of code, and having an up-to-date backup of current work, along with version control.
+### Setting up a new repo on GitHub and cloning locally
+1. Create new repo on GitHub, including a template `.gitignore` file (use corresponding Python, R or Stata template). The `.gitignore` file determines which files and folders will be ignored in every update. You should include the folders `data` and `proc` in the `.gitignore`. Additionally, there might be some file types you want to ignore (for example, auxiliary LaTeX files). The set of files to ignore will change depending on the project. 
 
-ii. Dropbox
+2. Type the following commands in terminal:
+    1. Change to directory where repo will be cloned 
+        ```sh
+        cd work
+        ``` 
+    2. Clone repo
+        ```sh
+        git clone https://github.com/user123/myproject
+        ```
+        
+#### Creating a local repository:
+Type the following commands in the terminal:
+1. Change to directory where repo will be cloned 
+    ```sh
+    cd work
+    ``` 
+2. Clone repo
+    ```sh
+    git clone https://github.com/user123/myproject
+    ```
+
+### Updating the GitHub repo
+First, modify files locally. Then, type the following commands in the terminal:
+1. Change directory to project folder
+    ```sh
+    cd work/myrepo
+    ``` 
+2. Add new and modified files
+    ```sh
+    git add .
+    ``` 
+3. Review added files
+    ```sh
+    git status
+    ``` 
+4. Commit files and add a message
+    ```sh
+    git commit -m “This message describes what was changed in the current commit"
+    ``` 
+5. Get most up to date code from remote repo.
+    ```sh
+    git pull
+    ```
+6. Push changes to remote repo
+    ```sh
+    git push
+    ```
+
+### Creating a fork of a repo and making a pull request    
+To make changes in repos where you are not the collaborator, you need to fork (create your own version of) the repo, make changes, and make a *pull request* to merge these changes back into the original repo. Follow these steps to fork a repo and create a pull request:
+
+1. Install the [GitHub Command Line Interface (CLI)](https://cli.github.com/). If you have [Homebrew](https://brew.sh/) installed (on Mac OS X), you can install by typing on the command line `brew install gh`.
+2. [Fork the repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+    ```sh
+    gh repo fork https://github.com/otheruser/repo_a
+    ``` 
+3. Clone forked repo
+    ```sh
+    git clone https://github.com/myuser/repo_a
+    ``` 
+4. Change directory to local folder
+    ```sh
+    cd repo_a
+    ``` 
+5. Make changes to files locally 
+6. Add, commit and push changes. This updates files on your own fork of the repo.
+7. Change directory to local folder
+    ```sh
+    git add .
+    git commit -m “Add a message here”
+    git push
+    ```   
+8. Create [pull request](https://cli.github.com/manual/gh_pr_create). Add title, insert details in body (if necessary) and submit pull request. Select other user’s repo as base repo.
+    ```sh
+    gh pr create
+    ```   
+
+## ii. Dropbox
 Please sign up [here](https://www.dropbox.com/dropbox) if you don't have a Dropbox account. A free Dropbox account should give you 2 GB of cloud storage. It should be enough for our purpose.
 
-iii. Overleaf (or other latex compiler)
+## iii. Overleaf
 Please sign up [here](https://www.overleaf.com/register) if you don't have an Overleaf account. When you don't need to collaborate with other people when creating reports, you can use other local latex compiler such as Tex Maker. However, it is recommended to use Overleaf if you have no/little experience with LaTex.
 
 # 6. Acknowledgments
