@@ -163,7 +163,8 @@ In academic projects, it's essential to keep reports, codes, results, data well 
 - The GitHub repository stores the structured folder but no **data**. Strutured folders are those corresponding to GitHub issues and is well organized so that it is clear what are the codes to solve the issue, what are the results, and what is the report.
 
 ## i. GitHub
-GitHub is used to help facilitate sharing results and scripts with PIs and other research assistants, ensuring reproducibility of code, and having an up-to-date backup of current work, along with version control.
+GitHub is used to help facilitate sharing results and scripts with PIs and other research assistants, ensuring reproducibility of code, and having an up-to-date backup of current work, along with version control. Below are some of the key commands we will need for GitHub. Please click [here](https://github.com/xyzhang9/RA_Guidance_XYZ/blob/main/git.md) for more details on how to get started with GitHub (and Git which is mechine behind GitHub).
+
 ### Setting up a new repo on GitHub and cloning locally
 1. Create new repo on GitHub, including a template `.gitignore` file (use corresponding Python, R or Stata template). The `.gitignore` file determines which files and folders will be ignored in every update. You should include the folders `data` and `proc` in the `.gitignore`. Additionally, there might be some file types you want to ignore (for example, auxiliary LaTeX files). The set of files to ignore will change depending on the project. 
 
