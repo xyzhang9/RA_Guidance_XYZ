@@ -15,7 +15,7 @@ Contents:
     1. [GitHub](#i-github)
     1. [Dropbox](#ii-dropbox)
     1. [Overleaf](#iii-overleaf)
-6. [Acknowledgments](#6-acknowledgments)
+3. [Acknowledgments](#3-acknowledgments)
 
 # 1. Administrative tasks
 ## i. Managing meetings
