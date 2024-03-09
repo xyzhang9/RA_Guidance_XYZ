@@ -136,6 +136,7 @@ Below are a few example emails from other RAs:
 ## iii. Presenting results to PIs
 
 ### Comments in GitHub Issue
+Below are some key rule of thumbs but please also read [Best Practices for GitHub Issues Management](https://tilburgsciencehub.com/topics/automation/version-control/start-git/write-good-issues/) for detailed instructions and demonstrations.
 1. Give context – what was the last decision made on how to do the task? What specific functions did you accomplish?
 2. Be concise, but offer sufficient detail to understand both the problem and the solution.
     a. If there is detailed documentation that you want your PI to look at, link it in your comment.
