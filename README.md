@@ -252,4 +252,4 @@ Please sign up [here](https://www.dropbox.com/dropbox) if you don't have a Dropb
 Please sign up [here](https://www.overleaf.com/register) if you don't have an Overleaf account. When you don't need to collaborate with other people when creating reports, you can use other local latex compiler such as Tex Maker. However, it is recommended to use Overleaf if you have no/little experience with LaTex.
 
 # 3. Acknowledgments
-This guide is inspired by and adapted from Sean Higgins GitHub Repository, [ra_guide](https://github.com/skhiggins/ra_guide)_.
+This guide is inspired by and adapted from Sean Higgins GitHub Repository [ra_guide](https://github.com/skhiggins/ra_guide).
