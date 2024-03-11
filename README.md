@@ -40,15 +40,7 @@ Contents:
 
    <img src="https://github.com/skhiggins/ra_guide/blob/main/pictures/meetings/meeting_3.png" align="center" height="40%" width="40%">
 
-## ii. Weekly emails with timesheet and recap
-
-All research assistants send a weekly email summarizing the tasks they worked on last week and their priorities for the upcoming week. Fill out a weekly timesheet. This is helpful for planning, making sure PIs are optimizing your time and setting realistic expectations about how long different tasks will take. In addition, the weekly recaps help the PIs to keep track of your progress on each project and task. The timesheets and recaps should be sent to the PIs every Monday morning. Specifically, the weekly emails include the following content:
-
-- The subject line of the email should include the date and the number of hours worked the past week. 
-- Research assistants are expected to work an average of 8 to 16 hours per week, with the exception of holidays or vacation or sick days. If the hours worked are significantly lower than 8, include a sentence at the beginning of the email stating why (e.g., "I worked 0 hours last week because of a holiday" or "I worked 2 hours last week because I took a week of vacation").
-- A recap of tasks done during the last week.
-- A summary list of priorities to be done in the current week.
-- Links to the timesheet for the last week and the current week.
+## ii. Timesheet and recap backup
 
 The timesheets and recaps should be saved in a separate **Google Drive folder**. Specifically:
 
@@ -56,82 +48,9 @@ The timesheets and recaps should be saved in a separate **Google Drive folder**.
 - Create a Google Doc to save *all* the weekly recaps. See examples [below](#examples-of-the-weekly-recaps).
 - Create a folder in Google Drive that contains the Google Sheet of the timesheet and the Google Doc of the weekly recaps.
 
+Please share the Google Sheet of the timesheet and the Google Doc of the meeting recaps with me. You do **NOT** need to email them to me. 
+
 > **Tips on Google Sheet shortcuts:** Click `Ctrl+;` to enter the current date, and `Ctrl+Shift+;` to enter the current time.
-
-### An example of the weekly email
-
-> Subject: Weekly email - [Name] [Date] (X hours)
-> 
-> ...
-> 
-> This is my timesheet: [link-to-timesheet]
-> 
-> And this is a summary of completed work last week and my priorities this week, which you can also check here: [link-to-the-recap-doc]
-> 
-> *[Copy the recap and the priorities in the email body to save one click for the PIs]*
-> 
-> ...
-
-### Examples of the weekly recaps
-
-Below are a few example emails from other RAs:
-
-#### RA working for 1 professor on 1 project
-
-> Last week:
-> 1. Worked on grant deliverable: updated prize analyses scripts and wrote the section in Overleaf.
-> 2. Reviewed survey incentives documentation.
-> 3. Updated the tool data.
-> 4. Implemented, tested, and published the set of new questions in Qualtrics. I also updated the English and Spanish versions of the questionnaires.
-> 5. Minor tasks: Assigned tasks to Vicente, asked Nico about Google Ads consultation and posted his answer in Asana, emails with J-PAL, reviewed old budget documentation to switch to the research account after depleting TFI funds, and updated our master budget.
-> 
-> This week:
-> 1. Work on NBER IRB submission.
-> 2. Review the last version of the follow-up survey.
-> 3. Pilot the follow-up survey.
-> 4. Finish all the pending tasks for the prize analysis (review my writing and update scripts).
-> 
-
-#### RA working for 1 professor on multiple projects
-
-> Last week:
-> 1. Project A:
->     1. Worked on updating non-adoption calculations (top priority for tomorrow’s meeting)
->     2. Worked on updating survey weights
->     3. Generated output directories, updated previous tables and scripts
-> 2. Project B:
->     1. Set up new git locally in server,
->     2. Started replication (currently about 50% through).
-> 
-> This week:
-> 1. Project A:
->     1. Update survey weights
->     2. Finish updating non-adoption calculations
->     3. Finish updating above-below median number of workers heterogeneity
->     4. Finish updating Asana with all previous comments
-> 2. Project B:
->     1. Finish replication
-> 
-
-#### RA working separately for multiple professors
-
-> Last week:
-> 1. Professor 1:
-> 	 1. Updated survey with profits note and num of employees questions
-> 	 2. Tested new way to ask for banks/firms of POS in survey
-> 	 3. Updated manual of surveyor
-> 	 4. Summarized EMEC scripts
-> 2. Professor 2:
-> 	 1. Analyzed the case of dscrgrp variable from ESS
-> 	 2. Produced correlation tables (ESS, Gallup)
-> 	 3. Produced new graphs about dscr variables
->
-> This week:
-> 1. Professor 1:
-> 	 1. Figure out what is going on with the NAs
-> 	 2. Add pre-survey questions about finding the owner of the retail
-> 2. Professor 2:
-> 	 1. Figure out what is going on with some countries and number of respondents in ESS
 
 ## iii. Presenting results to PIs
 
