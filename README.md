@@ -7,9 +7,7 @@ One of the most important things to keep in mind when working with professors is
 Contents:
 1. [Administrative tasks](#1-administrative-tasks)
     1. [Managing meetings](#i-managing-meetings)
-    1. [Weekly emails with timesheet and recap](#ii-weekly-emails-with-timesheet-and-recap)
-        - [An example of the weekly email](#an-example-of-the-weekly-email)
-        - [Examples for the weekly recaps](#examples-of-the-weekly-recaps)
+    1. [Timesheet and recap backup](#ii-Timesheet-and-recap-backup)
     1. [Presenting results to PIs](#iii-presenting-results-to-pis)
 2. [General project organization](#2-general-project-organization)
     1. [GitHub](#i-github)
