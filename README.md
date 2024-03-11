@@ -43,7 +43,7 @@ Contents:
 The timesheets and recaps should be saved in a separate **Google Drive folder**. Specifically:
 
 - Create a Google Sheet to write the timesheet for each week. You can find a template [here](https://docs.google.com/spreadsheets/d/1p3uaH4eAx_NmvJYl7v-tFmFRr55drqjfjRiFAG7Ut70/edit#gid=0).
-- Create a Google Doc to save *all* the weekly after meeting recaps as mentioned [above](#examples-of-the-weekly-recaps).
+- Create a Google Doc to save *all* the weekly after meeting recaps as mentioned [above](#send-meeting-recaps-after-meetings).
 - Create a folder in Google Drive that contains the Google Sheet of the timesheet and the Google Doc of the weekly recaps. Set the name of the Google Drive folder to your name, such as XiaoyueZhang 
 - Please share the Google Drive which contains the Google Sheet of the timesheet and the Google Doc of the meeting recaps with me. You do **NOT** need to email them to me. 
 
