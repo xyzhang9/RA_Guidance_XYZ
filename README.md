@@ -17,12 +17,12 @@ Contents:
 
 # 1. Administrative tasks
 ## i. Managing meetings
-1. **Send meeting agendas before meetings.** 
+### **Send meeting agendas before meetings** 
     - Send a meeting agenda **between one and two hours before each meeting** with detailed items to discuss in the meeting and attaching all content relevant to the meeting. This timing works well for PIs to be reminded about the call and have enough time to look at the agenda.
     - An easy way to remember to send meeting agendas is to set a calendar event with an email reminder for the agenda a couple of hours before each regular meeting.
     - You can keep track of content for each meeting.
 
-2. **Send meeting recaps after meetings.**
+### **Send meeting recaps after meetings**
 
     These recaps should have (1) detailed notes, with (2) actionable tasks, (3) tasks and conclusions posted in GitHub Issues and (4) be backed up in a Google Docs:
     1. **Detailed notes**. Send a meeting recap after each meeting with detailed notes about what was discussed in each meeting. You can take notes during meetings and record more complicated or important meetings that you might want to review afterwards. Send this recap as soon as possible after the meeting.
@@ -32,7 +32,7 @@ Contents:
 
     4. **Create GitHub Issues for tasks and conclusions**. Immediately create GitHub Issues for the tasks discussed, and post a summary of the discussion under GitHub Issues. 
 
-    5. **Back up to Google Docs**. Upload summaries to a Google Docs document, and include this link in all recap emails.
+    5. **Back up to Google Docs**. Upload summaries to a Google Docs document, and include this link in all recap emails. More detailed is provided in the next section ii. Timesheet and recap backup.
 
     If you use Apple Mail, you can create email templates for meeting agendas and recaps that are easy to fill out. You can find a guide for this [here](https://www.ericleeclark.com/create-email-templates-in-apple-mail-mojave/) and an example below:
 
@@ -43,10 +43,9 @@ Contents:
 The timesheets and recaps should be saved in a separate **Google Drive folder**. Specifically:
 
 - Create a Google Sheet to write the timesheet for each week. You can find a template [here](https://docs.google.com/spreadsheets/d/1p3uaH4eAx_NmvJYl7v-tFmFRr55drqjfjRiFAG7Ut70/edit#gid=0).
-- Create a Google Doc to save *all* the weekly recaps. See examples [below](#examples-of-the-weekly-recaps).
-- Create a folder in Google Drive that contains the Google Sheet of the timesheet and the Google Doc of the weekly recaps.
-
-Please share the Google Sheet of the timesheet and the Google Doc of the meeting recaps with me. You do **NOT** need to email them to me. 
+- Create a Google Doc to save *all* the weekly after meeting recaps as mentioned [above](#examples-of-the-weekly-recaps).
+- Create a folder in Google Drive that contains the Google Sheet of the timesheet and the Google Doc of the weekly recaps. Set the name of the Google Drive folder to your name, such as XiaoyueZhang 
+- Please share the Google Drive which contains the Google Sheet of the timesheet and the Google Doc of the meeting recaps with me. You do **NOT** need to email them to me. 
 
 > **Tips on Google Sheet shortcuts:** Click `Ctrl+;` to enter the current date, and `Ctrl+Shift+;` to enter the current time.
 
