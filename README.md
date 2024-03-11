@@ -17,24 +17,25 @@ Contents:
 
 # 1. Administrative tasks
 ## i. Managing meetings
+
 ### **Send meeting agendas before meetings** 
-    - Send a meeting agenda **between one and two hours before each meeting** with detailed items to discuss in the meeting and attaching all content relevant to the meeting. This timing works well for PIs to be reminded about the call and have enough time to look at the agenda.
-    - An easy way to remember to send meeting agendas is to set a calendar event with an email reminder for the agenda a couple of hours before each regular meeting.
-    - You can keep track of content for each meeting.
+- Send a meeting agenda **between one and two hours before each meeting** with detailed items to discuss in the meeting and attaching all content relevant to the meeting. This timing works well for PIs to be reminded about the call and have enough time to look at the agenda.
+- An easy way to remember to send meeting agendas is to set a calendar event with an email reminder for the agenda a couple of hours before each regular meeting.
+- You can keep track of content for each meeting.
 
 ### **Send meeting recaps after meetings**
 
-    These recaps should have (1) detailed notes, with (2) actionable tasks, (3) tasks and conclusions posted in GitHub Issues and (4) be backed up in a Google Docs:
+These recaps should have (1) detailed notes, with (2) actionable tasks, (3) tasks and conclusions posted in GitHub Issues and (4) be backed up in a Google Docs:
     1. **Detailed notes**. Send a meeting recap after each meeting with detailed notes about what was discussed in each meeting. You can take notes during meetings and record more complicated or important meetings that you might want to review afterwards. Send this recap as soon as possible after the meeting.
     2. **Organizing recaps**. Each item should have a discussion and tasks section. In the discussion section, write comments when possible as problem + potential solution. Here is an example of a recent recap:
     
-        <img src="https://github.com/skhiggins/ra_guide/blob/main/pictures/meetings/meeting_1.png" align="center" height="60%" width="60%">
+   <img src="https://github.com/skhiggins/ra_guide/blob/main/pictures/meetings/meeting_1.png" align="center" height="60%" width="60%">
 
-    4. **Create GitHub Issues for tasks and conclusions**. Immediately create GitHub Issues for the tasks discussed, and post a summary of the discussion under GitHub Issues. 
+   4. **Create GitHub Issues for tasks and conclusions**. Immediately create GitHub Issues for the tasks discussed, and post a summary of the discussion under GitHub Issues. 
 
-    5. **Back up to Google Docs**. Upload summaries to a Google Docs document, and include this link in all recap emails. More detailed is provided in the next section ii. Timesheet and recap backup.
+   5. **Back up to Google Docs**. Upload summaries to a Google Docs document, and include this link in all recap emails. More detailed is provided in the next section ii. Timesheet and recap backup.
 
-    If you use Apple Mail, you can create email templates for meeting agendas and recaps that are easy to fill out. You can find a guide for this [here](https://www.ericleeclark.com/create-email-templates-in-apple-mail-mojave/) and an example below:
+If you use Apple Mail, you can create email templates for meeting agendas and recaps that are easy to fill out. You can find a guide for this [here](https://www.ericleeclark.com/create-email-templates-in-apple-mail-mojave/) and an example below:
 
    <img src="https://github.com/skhiggins/ra_guide/blob/main/pictures/meetings/meeting_3.png" align="center" height="40%" width="40%">
 
